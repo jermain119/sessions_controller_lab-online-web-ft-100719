@@ -8,7 +8,7 @@ user what to call them, and we'll just use that as their username.
 
 ## Introduction
 
-Our app will have two pages:
+Our app will have two pages:  
 
 1. A home page or root route.
    * If the user is not logged in, the page should show them a login link.
